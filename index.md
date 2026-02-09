@@ -1,3 +1,9 @@
+# AI Racer - Workshops
+
+Below are the workshop materials related to autonomous driving/racing for The AI Racer Grand Prix.
+
+*(Will be updated as the workshops go on)*
+
 ## Workshop 1 - Intro to ROS 2
 
 ### Prerequisites
