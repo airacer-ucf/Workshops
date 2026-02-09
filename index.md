@@ -1,5 +1,5 @@
-[Install VMWare & Ubuntu 22.04](VMwareUbuntu)
+[Install VMWare & Ubuntu 22.04](vmware-ubuntu)
 
-[Install ROS2 Humble on Ubuntu 22.04](ROS2Install)
+[Install ROS2 Humble on Ubuntu 22.04](ros2-install)
 
 
