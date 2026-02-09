@@ -1,2 +1,2 @@
-[vmwareubuntu.md](vmwareubuntu.md)
+[Install VMWare & Ubuntu 22.04](VMwareUbuntu)
 
