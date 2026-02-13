@@ -18,6 +18,8 @@ Before the workshop 1, make sure to have Ubuntu 22.04 and ROS2 Humble installed 
 - [Install VMWare & Ubuntu 22.04](vmware-ubuntu)
 - [Install ROS2 Humble on Ubuntu 22.04](ros2-install)
 
+### Workshop 1 Documents
+- [Live Canvas](https://refmd.io/document/7f510493-3d5a-437e-848e-c766f17240d9?token=cade6d66-9a69-4b9f-b302-9766b6a8cf59)
 
 ## Additional resources
 
