@@ -1,6 +1,6 @@
 # Home
 
-Below are the workshop materials related to autonomous driving/racing for The AI Racer Grand Prix.
+Below are the Workshop and GBM materials related to autonomous driving/racing for The AI Racer Grand Prix.
 
 *(Will be updated as the workshops go on)*
 
