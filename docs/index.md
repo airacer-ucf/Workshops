@@ -9,17 +9,31 @@ Below are the workshop materials related to autonomous driving/racing for The AI
 - Competition & Workshop Discord: [https://tinyurl.com/airacer-discord](https://tinyurl.com/airacer-discord)
 
 
-## Workshop 1 - Intro to ROS 2
+## Intro to ROS 2 - Workshop & GBM 1
 
 ### Prerequisites
 
-Before the workshop 1, make sure to have Ubuntu 22.04 and ROS2 Humble installed on your machine. Below are some tutorial on how to install them:
+Before the Intro to ROS 2 Workshop, make sure to have Ubuntu 22.04 and ROS2 Humble installed on your machine. Below are some tutorial on how to install them:
 
-- [Install VMWare & Ubuntu 22.04](vmware-ubuntu)
-- [Install ROS2 Humble on Ubuntu 22.04](ros2-install)
+- [Install VMWare & Ubuntu 22.04](Intro-to-ROS-2/vmware-ubuntu)
+- [Install ROS2 Humble on Ubuntu 22.04](Intro-to-ROS-2/ros2-install)
 
-### Workshop 1 Documents
-- [Live Canvas](https://refmd.io/document/7f510493-3d5a-437e-848e-c766f17240d9?token=cade6d66-9a69-4b9f-b302-9766b6a8cf59)
+### Documents
+- [GBM 1 & Intro to ROS 2 - Workshop Presentation](https://docs.google.com/presentation/d/10jZ5V3pThUc_gJR8RwOVL-UM0QNemeR7XzTK7Eoe7Y0/edit?usp=sharing)
+- [Intro to ROS 2 Workshop Manual](Intro-to-ROS-2/Intro_to_ROS2_Workshop_Guide)
+- [Recording]()
+
+
+## Simulation & Automatic Emergency Break System - Workshop & GBM2
+
+### Prerequisites
+
+Before this Workshop, make sure to have Ubuntu 22.04 and ROS2 Humble installed on your machine. Below are some tutorial on how to install them:
+
+- [Install VMWare & Ubuntu 22.04](Intro-to-ROS-2/vmware-ubuntu)
+- [Install ROS2 Humble on Ubuntu 22.04](Intro-to-ROS-2/ros2-install)
+
+> Being familiar with using ROS 2 is recommended. See [Intro to ROS 2 Workshop](#intro-to-ros-2---workshop--gbm-1)
 
 ## Additional resources
 
