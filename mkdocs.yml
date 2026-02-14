@@ -8,6 +8,3 @@ theme:
 markdown_extensions:
   - toc:
       permalink: true
-nav:
-  - Home: index.md
-  - Intro to ROS 2: intro-to-ros/
