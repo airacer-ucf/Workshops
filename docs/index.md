@@ -35,8 +35,8 @@ Before this Workshop, make sure to have Ubuntu 22.04 and ROS2 Humble installed o
 
 ### Resources
 - [Presentation](https://docs.google.com/presentation/d/1pJLJu8CrYigGNrWHify-JzHjUKAvvNZWwrvqYZH7m_4/edit?usp=sharing)
-- [Simulation Installation Guide](Sim-AEB/F1tenthGymROS-Install)
-- [Automatic Emergency Braking System Guide](Sim-AEB/AEB-Systems)
+- [Simulation Installation Guide](Simulation-and-AEB-Systems/F1tenthGymROS-Install)
+- [Automatic Emergency Braking System Guide](SSimulation-and-AEB-Systems/AEB-Systems)
 - [Recording](https://youtu.be/dmA_x7qvxpI)
 
 > Being familiar with using ROS 2 is highly recommended. See [Intro to ROS 2 Workshop](#intro-to-ros-2-workshop-gbm-1)
@@ -50,7 +50,7 @@ Before this Workshop, make sure to have Ubuntu 22.04 and ROS2 Humble installed o
 
 - [Install VMWare & Ubuntu 22.04](Intro-to-ROS-2/vmware-ubuntu)
 - [Install ROS2 Humble on Ubuntu 22.04](Intro-to-ROS-2/ros2-install)
-- [Simulation Installation Guide](Sim-AEB/F1tenthGymROS-Install)
+- [Simulation Installation Guide](Simulation-and-AEB-Systems/F1tenthGymROS-Install)
 
 ### Resources
 
