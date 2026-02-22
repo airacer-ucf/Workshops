@@ -19,12 +19,12 @@ Before the Intro to ROS 2 Workshop, make sure to have Ubuntu 22.04 and ROS2 Humb
 - [Install ROS2 Humble on Ubuntu 22.04](Intro-to-ROS-2/ros2-install)
 
 ### Resources
-- [GBM 1 & Intro to ROS 2 - Workshop Presentation](https://docs.google.com/presentation/d/10jZ5V3pThUc_gJR8RwOVL-UM0QNemeR7XzTK7Eoe7Y0/edit?usp=sharing)
-- [Intro to ROS 2 Workshop Manual](Intro-to-ROS-2/Intro_to_ROS_2_Workshop_Manual)
+- [Presentation](https://docs.google.com/presentation/d/10jZ5V3pThUc_gJR8RwOVL-UM0QNemeR7XzTK7Eoe7Y0/edit?usp=sharing)
+- [Workshop Guide](Intro-to-ROS-2/Intro_to_ROS_2_Workshop_Manual)
 - [Recording](https://youtu.be/_zS1El51M_Y)
 
 
-## Simulation & Automatic Emergency Breaking (AEB) System - Workshop & GBM 2
+## Simulation & Automatic Emergency Braking (AEB) System - Workshop & GBM 2
 
 ### Prerequisites
 
@@ -33,10 +33,28 @@ Before this Workshop, make sure to have Ubuntu 22.04 and ROS2 Humble installed o
 - [Install VMWare & Ubuntu 22.04](Intro-to-ROS-2/vmware-ubuntu)
 - [Install ROS2 Humble on Ubuntu 22.04](Intro-to-ROS-2/ros2-install)
 
-### Docs
-- [Live Canvas](https://hackmd.io/@pNfw7q1WS2mLnUS9N2siyQ/BylhVwIuZl) 
+### Resources
+- [Presentation](https://docs.google.com/presentation/d/1pJLJu8CrYigGNrWHify-JzHjUKAvvNZWwrvqYZH7m_4/edit?usp=sharing)
+- [Simulation Installation Guide](Sim-AEB/F1tenthGymROS-Install)
+- [Automatic Emergency Braking System Guide](Sim-AEB/AEB-Systems)
+- [Recording](https://youtu.be/dmA_x7qvxpI)
 
-> Being familiar with using ROS 2 is recommended. See [Intro to ROS 2 Workshop](#intro-to-ros-2-workshop-gbm-1)
+> Being familiar with using ROS 2 is highly recommended. See [Intro to ROS 2 Workshop](#intro-to-ros-2-workshop-gbm-1)
+
+
+## PID Controller & Wall Following Technique - Workshop & GBM 3
+
+### Prerequisites
+
+Before this Workshop, make sure to have Ubuntu 22.04 and ROS2 Humble installed on your machine, along with the F1Tenth Simulation. Below are some tutorial on how to install them:
+
+- [Install VMWare & Ubuntu 22.04](Intro-to-ROS-2/vmware-ubuntu)
+- [Install ROS2 Humble on Ubuntu 22.04](Intro-to-ROS-2/ros2-install)
+- [Simulation Installation Guide](Sim-AEB/F1tenthGymROS-Install)
+
+### Resources
+
+> Being familiar with using ROS 2 is highly recommended. See [Intro to ROS 2 Workshop](#intro-to-ros-2-workshop-gbm-1)
 
 ## Additional resources
 
